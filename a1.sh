@@ -1,3 +1,3 @@
 #/bin/bash
 
-echo $SERVER_NAME $0
+echo $SERVER_NAME $1
